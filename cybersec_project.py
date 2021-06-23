@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 23 08:19:39 2021
-
-@author: Dell
-"""
-
 import requests
 import sys
 orig_stdout = sys.stdout
