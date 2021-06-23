@@ -1,0 +1,14 @@
+----------------------------------------------------------------
+Weather Stats for - OOTY || 23 Jun 2021 | 02:30:26 PM
+----------------------------------------------------------------
+Current temperature is: 21.07 deg C
+Current weather desc   : overcast clouds
+Current Humidity       : 61 %
+Current wind speed     : 1.76 kmph
+----------------------------------------------------------------
+Weather Stats for - OOTY || 23 Jun 2021 | 03:10:46 PM
+----------------------------------------------------------------
+Current temperature is: 21.07 deg C
+Current weather desc   : light rain
+Current Humidity       : 69 %
+Current wind speed     : 2.3 kmph
